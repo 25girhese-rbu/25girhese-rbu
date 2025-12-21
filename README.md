@@ -1,4 +1,4 @@
-## Hi there 👋
+![My Stats](https://github-readme-stats.vercel.app/api?username=Soniya Girhe&show_icons=true&theme=dark)
 
 <!--
 **25girhese-rbu/25girhese-rbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

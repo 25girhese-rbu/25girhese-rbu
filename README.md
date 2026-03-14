@@ -6,17 +6,16 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<!--
-**25girhese-rbu/25girhese-rbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 **1st Year B.Tech Student** in Computer Science & Engineering at Ramdeobaba University, Nagpur.
+- 💻 **Aspiring Software Engineer** focusing on Data Structures & Algorithms (Java/C).
+- ☁️ **Google Cloud Career Launchpad** participant, currently exploring Generative AI.
+- 🎨 **Interests:** Singing, Watercolor Painting, and competitive Chess.
 
-Here are some ideas to get you started:
+## 🛠️ Current Focus
+- 🌱 **Learning:** Deepening my knowledge in Java OOPS and Web Development.
+- 🔭 **GSoC 2026:** Researching open-source organizations to contribute to.
+- 🥅 **Goal:** Securing a Pre-Placement Offer (PPO) at a top-tier tech company.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+- 📧 [girhesoniya@gmail.com](mailto:girhesoniya@gmail.com)

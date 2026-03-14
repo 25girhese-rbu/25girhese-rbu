@@ -14,7 +14,7 @@
 
 ## 🛠️ Current Focus
 - 🌱 **Learning:** Deepening my knowledge in Java OOPS and Web Development.
-- 🔭 **Exploring** Open Source Contributions.
+- 🔭 **Exploring:** Open Source Contributions.
 - 🥅 **Goal:** Securing a Pre-Placement Offer (PPO) at a top-tier tech company.
 
 ## 📫 Let's Connect

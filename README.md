@@ -14,7 +14,7 @@
 
 ## 🛠️ Current Focus
 - 🌱 **Learning:** Deepening my knowledge in Java OOPS and Web Development.
-- 🔭 **GSoC 2026:** Researching open-source organizations to contribute to.
+- 🔭 **Exploring** Open Source Contributions.
 - 🥅 **Goal:** Securing a Pre-Placement Offer (PPO) at a top-tier tech company.
 
 ## 📫 Let's Connect
